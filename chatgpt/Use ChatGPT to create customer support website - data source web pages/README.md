@@ -16,7 +16,7 @@ This project is an AI-powered chatbot using GPT-4o Mini, designed to summarize P
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/smart_chatbot.git
+git clone [https://github.com/ASD-Are/MachineLearning](https://github.com/ASD-Are/MachineLearning/tree/main/chatgpt/Use%20ChatGPT%20to%20create%20customer%20support%20website%20-%20data%20source%20web%20pages)
 cd smart_chatbot
 ```
 
@@ -59,8 +59,10 @@ Open the provided URL (typically `http://localhost:8501`) in your browser to acc
 
 ## Screenshot
 Include a screenshot of the app interface here:
+![App Screenshot](https://github.com/user-attachments/assets/4eca3f33-5799-4d0a-af57-6e474a32119c)
+![image](https://github.com/user-attachments/assets/fc934c20-793c-4921-b42d-2e878a119dc9)\
+![image](https://github.com/user-attachments/assets/cf82bdc3-f4e2-4d1e-b917-c85bf6f69b19)
 
-![App Screenshot](images/app_screenshot.png)
 
 ## References
 - [OpenAI API Documentation](https://platform.openai.com/)
@@ -77,5 +79,7 @@ Include a screenshot of the app interface here:
 2. **Mobile App Version**: Make the chatbot available as a mobile app.
 3. **Enhanced UI**: Add features like dark mode and more flexible input methods.
 
-## Contact
-For any questions, feel free to reach out: [Your Email](mailto:youremail@example.com)
+## Appendix
+[Google Slide](https://docs.google.com/presentation/d/12b1PPjLq-hRroUPZ66VEGLNbTz1yLyWTb2Jn84AZ2LE/edit?usp=sharing)
+[Documentation with Screenshots of process and result](https://github.com/ASD-Are/MachineLearning/blob/main/chatgpt/Use%20ChatGPT%20to%20create%20customer%20support%20website%20-%20data%20source%20web%20pages/CS565_week3_HW2_Q2_20073_Aron_Dagniew.pdf)
+
